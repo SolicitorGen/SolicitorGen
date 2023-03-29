@@ -6,7 +6,6 @@ I'm a construction manager by profession and aspiring DevOps Software Engineer. 
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Cloud Engineering. 
 ---
